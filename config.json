@@ -1,0 +1,12 @@
+{
+    "token" : "",
+    "webhook" : "",
+    "imgurl" : "https://cdn.discordapp.com/attachments/1043128286420676619/1047816810235437106/botsmsfree.gif",
+    "guild_id" : "",
+    "channel_id" : [],
+    "limit" : "100",
+    "blacklist" : [
+        "",
+        ""
+    ]
+}
